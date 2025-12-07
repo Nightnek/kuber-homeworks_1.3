@@ -41,7 +41,16 @@
 <img width="483" height="102" alt="image" src="https://github.com/user-attachments/assets/5acf3cdf-86b4-44c0-abb5-869965629551" />
 
 4. Создать Service, который обеспечит доступ до реплик приложений из п.1.
+
+<img width="913" height="581" alt="image" src="https://github.com/user-attachments/assets/2791dc85-2eab-428e-8b4e-592958a7dc8c" />
+ 
 5. Создать отдельный Pod с приложением multitool и убедиться с помощью `curl`, что из пода есть доступ до приложений из п.1.
+
+<img width="431" height="93" alt="image" src="https://github.com/user-attachments/assets/8a6abc7d-0651-4708-b239-79194f0dafac" />
+<img width="596" height="296" alt="image" src="https://github.com/user-attachments/assets/be7a6cce-ca2c-478f-89c6-4f9d34e2cfcb" />
+<img width="583" height="311" alt="image" src="https://github.com/user-attachments/assets/2523dfe6-417d-4f46-b446-f3bdc9bccc80" />
+<img width="906" height="529" alt="image" src="https://github.com/user-attachments/assets/f1037b9e-f83e-4775-b2a3-918878f18a58" />
+<img width="911" height="479" alt="image" src="https://github.com/user-attachments/assets/a909c5b4-fa2f-4a37-9327-fe17897d8077" />
 
 ------
 
