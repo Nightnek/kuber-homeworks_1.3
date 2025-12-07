@@ -58,8 +58,13 @@
 
 1. Создать Deployment приложения nginx и обеспечить старт контейнера только после того, как будет запущен сервис этого приложения.
 2. Убедиться, что nginx не стартует. В качестве Init-контейнера взять busybox.
+
+<img width="476" height="110" alt="image" src="https://github.com/user-attachments/assets/ada9f2a8-b90f-4fb6-9900-1f0647f4d367" />
+
 3. Создать и запустить Service. Убедиться, что Init запустился.
 4. Продемонстрировать состояние пода до и после запуска сервиса.
+
+<img width="487" height="242" alt="image" src="https://github.com/user-attachments/assets/8ce3c5f2-6269-41ee-8646-54fdc18b2961" />
 
 ------
 
