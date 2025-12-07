@@ -25,8 +25,21 @@
 ### Задание 1. Создать Deployment и обеспечить доступ к репликам приложения из другого Pod
 
 1. Создать Deployment приложения, состоящего из двух контейнеров — nginx и multitool. Решить возникшую ошибку.
+
+<img width="463" height="115" alt="image" src="https://github.com/user-attachments/assets/688d3dcb-1247-4668-8dbc-b4a62e5d8981" />
+<img width="898" height="309" alt="image" src="https://github.com/user-attachments/assets/7929e233-8136-4e0a-bd1d-eaa871ab2c1e" />
+<img width="446" height="551" alt="image" src="https://github.com/user-attachments/assets/f8cb790a-c06c-42c3-94f0-00bd1fbf63e7" />
+
+<img width="531" height="114" alt="image" src="https://github.com/user-attachments/assets/7e2863ac-f728-448b-a963-f6e3e2e6b924" />
+
+
+
 2. После запуска увеличить количество реплик работающего приложения до 2.
 3. Продемонстрировать количество подов до и после масштабирования.
+
+<img width="479" height="67" alt="image" src="https://github.com/user-attachments/assets/984c98ee-1d23-4207-a8bc-8d0905cd9341" />
+<img width="483" height="102" alt="image" src="https://github.com/user-attachments/assets/5acf3cdf-86b4-44c0-abb5-869965629551" />
+
 4. Создать Service, который обеспечит доступ до реплик приложений из п.1.
 5. Создать отдельный Pod с приложением multitool и убедиться с помощью `curl`, что из пода есть доступ до приложений из п.1.
 
